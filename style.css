@@ -103,10 +103,10 @@ body {
   font-weight: 200;
 }
 
-@media (min-width: 1100px) {
+@media (min-width: 760px) {
   .main-container {
     display: flex;
-    width: min(60%, 800px);
+    width: min(90%, 800px);
     flex-wrap: wrap;
   }
 
